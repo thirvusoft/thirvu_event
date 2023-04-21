@@ -1,0 +1,76 @@
+{
+ "charts": [],
+ "content": "[{\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">EXPO EVENT</span>\",\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Kootam\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Kovil\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Kootam Kovil Details\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"User\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Event\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Calendar View\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Territory\",\"col\":3}}]",
+ "creation": "2023-04-21 13:26:43.449894",
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "map",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "EXPO EVENT",
+ "links": [],
+ "modified": "2023-04-21 13:37:10.468916",
+ "modified_by": "Administrator",
+ "module": "Thirvu Event",
+ "name": "EXPO EVENT",
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 30.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Territory",
+   "link_to": "Territory",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Kootam",
+   "link_to": "Kootam",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Kovil",
+   "link_to": "Kovil",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Kootam Kovil Details",
+   "link_to": "Kootam Kovil Details",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "User",
+   "link_to": "User",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Event",
+   "link_to": "Event",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Calendar View",
+   "link_to": "Calendar View",
+   "type": "DocType"
+  }
+ ],
+ "title": "EXPO EVENT"
+}
