@@ -102,13 +102,13 @@ doctype_js = {"Event" : "/custom/js/event.js"}
 # ---------------
 # Hook on document methods and events
 
-# doc_events = {
-#	"*": {
-#		"on_update": "method",
-#		"on_cancel": "method",
-#		"on_trash": "method"
-#	}
-# }
+doc_events = {
+	"Event": {
+		"after_insert": "thirvu_event.custom.py.qr.after_insert",
+		
+	},
+	
+}
 
 # Scheduled Tasks
 # ---------------
