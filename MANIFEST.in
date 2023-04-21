@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include thirvu_event *.css
+recursive-include thirvu_event *.csv
+recursive-include thirvu_event *.html
+recursive-include thirvu_event *.ico
+recursive-include thirvu_event *.js
+recursive-include thirvu_event *.json
+recursive-include thirvu_event *.md
+recursive-include thirvu_event *.png
+recursive-include thirvu_event *.py
+recursive-include thirvu_event *.svg
+recursive-include thirvu_event *.txt
+recursive-exclude thirvu_event *.pyc
